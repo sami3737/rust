@@ -4,7 +4,7 @@
 
 Rust est un webshop créer en 2017.
 
-Les adminitrateurs de serveurs privés ont la possibilité connecter leur site à leur serveur Rust.
+Les adminitrateurs de serveurs privés ont la possibilité de connecter leur site à leur serveur Rust.
 
 Les utilisateurs on accès à une boutique en lien directe avec le jeu.
 
