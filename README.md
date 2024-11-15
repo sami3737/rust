@@ -3,8 +3,11 @@
 ## À propos
 
 Rust est un webshop créer en 2017.
+
 Les adminitrateurs de serveurs privés ont la possibilité connecter leur site à leur serveur Rust.
+
 Les utilisateurs on accès à une boutique en lien directe avec le jeu.
+
 Cette version utilise l'api Paypal/Steam/g2a
 
 ## Table des matières
