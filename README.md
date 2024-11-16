@@ -48,4 +48,4 @@ Cette version utilise l'api Paypal/Steam/g2a
 
 ## Licence
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENCE.md) pour plus d'informations
+Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
