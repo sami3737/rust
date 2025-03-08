@@ -1,14 +1,9 @@
+
 # RustTech
 
 ## À propos
 
-Rust est un webshop créer en 2017.
-
-Les adminitrateurs de serveurs privés ont la possibilité de connecter leur site à leur serveur Rust.
-
-Les utilisateurs on accès à une boutique en lien directe avec le jeu.
-
-Cette version utilise l'api Paypal/Steam/g2a
+RustTech est un webshop créé en 2017. Les administrateurs de serveurs privés ont la possibilité de connecter leur site à leur serveur Rust. Les utilisateurs ont accès à une boutique en lien direct avec le jeu. Cette version utilise l'API Paypal, Steam, et G2A.
 
 ## Table des matières
 
@@ -17,35 +12,31 @@ Cette version utilise l'api Paypal/Steam/g2a
 - [Installation](#installation)
 - [Outils](#outils)
 - [Auteurs](#auteurs)
-- [Licence](#Licence)
+- [Licence](#licence)
 
 ### Prérequis
 
-  -[MySQL](https://www.mysql.com/)
-  
-  -[PHP7](https://www.php.net/releases/index.php)
-  
-  -[Apache](https://httpd.apache.org/)
+- [MySQL](https://www.mysql.com/)
+- [PHP7](https://www.php.net/releases/index.php)
+- [Apache](https://httpd.apache.org/)
 
 ### Installation
 
--Installer et configurer votre serveur Apache ou faite votre propre installation MySQL/PHP.
+1. Installer et configurer votre serveur Apache ou faites votre propre installation MySQL/PHP.
+2. Configurer les fichiers en suivant les instructions ci-dessous :
 
--Configurer les fichiers en suivants:
+   - [G2A Config](./g2a.php)
+   - [Config](./config.php)
+   - [Install](./install.php)
 
-[G2A Config](./g2a.php)
+### Outils
 
-[Config](./config.php)
+- **Notepad++**
 
-[Install](./install.php)
+### Auteurs
 
-## Outils
+- **Samuel Boutin** _alias_ [@sami3737](https://github.com/sami3737)
 
-  *Notepad++
+### Licence
 
-## Auteurs
-* **Samuel Boutin** _alias_ [@sami3737](https://github.com/sami3737)
-
-## Licence
-
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
+Ce projet est sous licence **MIT License** - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations.
